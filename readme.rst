@@ -1,5 +1,5 @@
 ###################
-Bootstrap 4 - Completo, Prático e Responsivo
+Bootstrap 4 
 ###################
 
 Bootstrap é o mais popular framework HTML, CSS, e JS para desenvolvimento de projetos responsivo, ele é principalmente focado para trazer Responsividade para dispositivos móveis na web.
